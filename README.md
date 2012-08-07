@@ -3,15 +3,15 @@ Facebook-Comment-Resizer
 
 Facebook's comment widget has to be set to a fixed width and that sucks when working with responsive websites. This Mootools Class, once initialized, will re-size the comment boxes to the width of their containers and automatically re-size them if the window is re-sized.
 
-# Dependencies
+## Dependencies
 
 Mootools Core (I'm using 1.4.5, but I imagine anything above 1.2 will work)
 
-# Options
+## Options
 
 margin (default - 10): Subtracts this value (x2) from the width of the comment box, to make it fit nicely into the container.
 
-# How to Use
+## How to Use
 
 Include the script in your page.
 
